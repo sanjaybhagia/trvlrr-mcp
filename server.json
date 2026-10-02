@@ -3,12 +3,25 @@
   "name": "app.trvlrr/trvlrr",
   "title": "Trvlrr",
   "description": "Your travel history and upcoming trips: flights, stays, activities, places, photos and stats.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://trvlrr.app/features/ai-assistant",
   "icons": [
-    { "src": "https://trvlrr.app/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] }
+    {
+      "src": "https://trvlrr.app/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
   ],
   "remotes": [
-    { "type": "streamable-http", "url": "https://trvlrr.app/mcp" }
-  ]
+    {
+      "type": "streamable-http",
+      "url": "https://trvlrr.app/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/sanjaybhagia/trvlrr-mcp",
+    "source": "github"
+  }
 }
