@@ -1,0 +1,9 @@
+{
+  "name": "trvlrr",
+  "version": "1.0.0",
+  "description": "Your travel journal in Cursor: trips taken and planned with their flights, stays, activities and expenses, lifetime travel stats and photo search. Sign in with your Trvlrr account.",
+  "author": { "name": "Arigato Consulting Pty Ltd", "email": "support@trvlrr.app" },
+  "homepage": "https://trvlrr.app/features/ai-assistant",
+  "license": "MIT",
+  "logo": "assets/logo-400.png"
+}

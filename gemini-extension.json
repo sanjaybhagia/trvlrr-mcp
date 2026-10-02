@@ -1,0 +1,11 @@
+{
+  "name": "trvlrr",
+  "version": "1.0.0",
+  "description": "Your travel journal: trips taken and planned, their flights, stays and activities, travel stats and photo search. Sign in with your Trvlrr account.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "trvlrr": {
+      "httpUrl": "https://trvlrr.app/mcp"
+    }
+  }
+}
